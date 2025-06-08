@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cofee</string>
+    <string name="choice_your_nfavorite_coffee">Choice your\nFavorite Coffee</string>
+    <string name="the_best_grain_the_finest_roast_nthe_powerfull_flavor">The best grain,the finest roast\nthe powerfull flavor</string>
+    <string name="get_started">Get Started</string>
+    <string name="search_anything">Search anything...</string>
+    <string name="category">Category</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="see_all">See all</string>
+    <string name="Expresso"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/Cappoccino.jpg?alt=media&token=0e553cec-a35b-499b-932e-dac928036209]]></string>
+    <string name="Cappuccino"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/espersso.jpg?alt=media&token=cda8f337-5335-4199-a9be-97c45cb91314]]></string>
+    <string name="Americano"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project195-aa33b.appspot.com/o/affagato.jpg?alt=media&token=003f38e5-b562-4735-877c-36c41ceb921b]]></string>
+    <string name="Affogato"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Matcha%20Latte.png?alt=media&token=c3f61d4f-d78b-4c23-b4b0-4f1979f010a5]]></string>
+    <string name="Cofee2"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Macchiato.png?alt=media&token=b66fbc1f-0dfb-4e3d-ae2a-aa4f261be349]]></string>
+    <string name="micanno"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Matcha%20Latte.png?alt=media&token=c3f61d4f-d78b-4c23-b4b0-4f1979f010a5]]></string>
+    <string name="ico"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Matcha%20Latte.png?alt=media&token=c3f61d4f-d78b-4c23-b4b0-4f1979f010a5]]></string>
+    <string name="DeExpresso">Cappuccino is a traditional Italian coffee drink made with equal parts espresso, steamed milk, and milk foam. It has a strong espresso flavor, balanced by the creamy texture of the steamed milk and the light, airy foam on top. Cappuccinos are often garnished with a sprinkle of cocoa powder or cinnamon.</string>
+    <string name="DescCapp">Cappuccino is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure. The result is a rich, robust flavor with a thick, creamy layer on top called crema.</string>
+    <string name="DescAmerica">Americano is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure. The result is a rich, robust flavor with a thick, creamy layer on top called crema.</string>
+    <string name="DecAffog">Affogato is a concentrated form of coffee served in small, strong shots and is the base for many coffee drinks. It is made by forcing a small amount of nearly boiling water through finely-ground coffee beans under high pressure. The result is a rich, robust flavor with a thick, creamy layer on top called crema.</string>
+    <string name="DecrpBla">A classic, refreshing black tea served hot to warm your senses. Perfect for a cozy afternoon break or a morning boost</string>
+    <string name="PicBla"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Simple%20Tea.jpg?alt=media&token=59bab7a1-d474-4496-a8ad-0f10e235850d]]></string>
+    <string name="Mact">A vibrant and healthy option, the Matcha Latte combines high-quality matcha green tea with steamed milk for a creamy and refreshing beverage, offering a unique twist on traditional lattes.</string>
+    <string name="Picma"><![CDATA[https://firebasestorage.googleapis.com/v0/b/project209-1.appspot.com/o/Cortado.png?alt=media&token=1bad17fb-9cb9-4bcc-9673-4f13c56474bb]]></string>
+    <string name="DISCOUNTCode">Enter Your Discount Code</string>
+    <string name="my_fabourite_item">My Fabourite Item</string>
+    <string name="cairo_egypt">Cairo, Egypt</string>
+</resources>
